@@ -1,6 +1,6 @@
 # sti
 
-Code use for the simulations in "A time-varying network model for sexually transmitted infections accounting for behavior and control actions" by K. Frieswijk, L. Zino, and M. Cao. International Journal of Robust and Nonlinear Control, 2021, doi: 10.1002/rnc.5930
+Code used for the simulations in "A time-varying network model for sexually transmitted infections accounting for behavior and control actions" by K. Frieswijk, L. Zino, and M. Cao. International Journal of Robust and Nonlinear Control, 2021, doi: 10.1002/rnc.5930
 
 INSTRUCTIONS AND SYSTEM REQUIREMENTS:
 
